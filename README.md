@@ -1,9 +1,10 @@
 # IMAGE TRANSLATION USING CONDITIONAL GENERATIVE ADVERSARIAL NETWORKS
-Imported from undergrad repository 
-## CS:408 ADVANCED MACHINE LEARNING (2019)
+Final project for CS:408 ADVANCED MACHINE LEARNING (2019). Imported from undergrad account
 
 • Implemented a CGAN to perform an Image Translation task
+
 • Replicated results of the pix2pix paper on use cases such as Day2Night, Labels2Street Scene, etc.
+
 • Explored a novel use case of fixing Obfuscated Images by means of translation
 
 ## ABSTRACT
